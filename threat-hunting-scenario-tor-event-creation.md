@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Howard Covarrubias
-- **Author Contact**: 
+- **Author Contact**: https://www.linkedin.com/in/hacx/
 - **Date**: 
 
 ## Validated By:
