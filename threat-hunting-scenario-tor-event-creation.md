@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | ``  | ``   
+| 1.0         | Initial draft                 | `April 13,2025`  | `Howard Covarrubias`   
